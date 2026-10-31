@@ -31,4 +31,3 @@ Tableau Public: [link]
 - Tesla alone outsold BMW and Mercedes-Benz combined in 4 of 9 months (Apr, May, Aug, Sep).
 - EVs passed 50% of imported registrations in June (51.1%) and September (52.1%).
 
---
